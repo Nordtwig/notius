@@ -1,0 +1,25 @@
+/* Theme URL: https://coolors.co/6f8695-2fbf71-faf3dd-132e32-ee7674 */
+/* Primary: #EE7674 */
+/* Secondary: #132E32 */
+/* Text: #FAF3DD */
+/* Success: #2FBF71 */
+/* Grey: #6F8695 */
+
+h1 {
+    margin: 0;
+}
+
+body {
+    background-color: #EB5E5C;
+    color: #FAF3DD;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    background-color: #132E32;
+    margin: 20px auto;
+    padding: 15px 20px;
+    width: 85%;
+    height: 90vh;
+    border-radius: 30px;
+}
