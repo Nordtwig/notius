@@ -5,8 +5,8 @@
 /* Success: #2FBF71 */
 /* Grey: #6F8695 */
 
-h1 {
-    margin: 0;
+#logo {
+    margin: 0 0 15px 0;
 }
 
 body {
@@ -30,7 +30,10 @@ body {
     width: 25%;
     height: 300px;
     border-style: solid;
-    margin-top: 25px;
     text-align: center;
 }
 
+h4 {
+    margin: auto;
+    font-size: 40px;
+}
